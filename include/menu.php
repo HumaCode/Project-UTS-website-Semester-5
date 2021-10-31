@@ -52,5 +52,5 @@
 <div class="sidebar-card">
     <img class="sidebar-card-illustration mb-2" src="assets/img/undraw_rocket.svg" alt="">
     <p class="text-center mb-2"><strong>Source code project UTS</strong> bisa di download di github</p>
-    <a class="btn btn-success btn-sm" target="_blank" rel="nofollow" href="https://startbootstrap.com/theme/sb-admin-pro">Lihat Code</a>
+    <a class="btn btn-success btn-sm" target="_blank" rel="nofollow" href="https://github.com/HumaCode/Project-UTS-website-Semester-5">Lihat Code</a>
 </div>
